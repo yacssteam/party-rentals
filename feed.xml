@@ -9,7 +9,7 @@
 <meta name="robots" content="index, follow">
 <meta name="googlebot" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1">
 <meta name="bingbot" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1">
-<link rel="canonical" href="privacy-policy.html">
+<link rel="canonical" href="https://github.com/yacssteam/party-rentals/privacy-policy.html">
 <link rel="shortcut icon"  href="img/"/>
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.1/dist/css/bootstrap.min.css">
 <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Kumbh+Sans:100,200,300,400,500,600,700,800,900&amp;display=swap" as="style" onload="this.onload=null;this.rel='stylesheet'">
@@ -18,71 +18,71 @@
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.1/dist/js/bootstrap.bundle.min.js"></script>
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 <style type="text/css">
-.be7cb00ce9df3540bf5d46b759a7bda7f{
+.btn-md{
+padding: 15.2px 30.4px;
+border-radius: 0;
+}
+.y161cf9e0ab8f1bcb7b19e7b83d89356d{
 background-color:#ffc107!important;
 border-color:#ffc107!important;
 color:#000000!important;
 }
-.yc5418ac614b56b866f1657a64dc4a31b p,.yc5418ac614b56b866f1657a64dc4a31b span,.yc5418ac614b56b866f1657a64dc4a31b label{
+.tade81e42b1b9d151eb1ae6d7ca4b1994 p,.tade81e42b1b9d151eb1ae6d7ca4b1994 span,.tade81e42b1b9d151eb1ae6d7ca4b1994 label{
 font-size:16px!important;
-}
-.nav-item{
-padding-left:8.3px;
-padding-right:8.2px;
-padding-top:5.1px;
-padding-bottom:4.9px;
-}
-.be5a8929e92647314439afc636e4ef6ba a,.yc5418ac614b56b866f1657a64dc4a31b a{
-color:#121212!important;
-text-decoration: underline !important;
 }
 footer a{
 color:#ffffff;
 text-decoration: underline;
 }
-a:hover{
-color:#ffffff;background:#ffc658!important;
+.nav-link{
+color: #000000;
+
 }
-html{
-scroll-behavior: smooth;
-}
-footer *{
-font-size:16px !important;
-}
-.navbar a{
-font-size: 18.3px!important;
-font-weight: bold;
-}
-*{
-font-family: 'Kumbh Sans', sans-serif;
-}
-.e6b3c82dfae973787e728148a7a88b5f0:hover{
-box-shadow: 0 50.3px 49.5px -25px rgb(0 0 0 / 30%);
-transform: rotate(-2deg) scale(1.03);
-}
-a{
-text-decoration: none!important;
-}
-.be5a8929e92647314439afc636e4ef6ba p,.be5a8929e92647314439afc636e4ef6ba a,.be5a8929e92647314439afc636e4ef6ba span,.be5a8929e92647314439afc636e4ef6ba label{
-font-size:16px!important;
+footer{
+background:#070707;
+color:#ffffff;
 }
 ul{
 list-style: circle;
 }
-footer{
-background:#060606;
-color:#ffffff;
+a{
+text-decoration: none!important;
 }
-.btn-md{
-padding: 14.7px 30.2px;
-border-radius: 0;
+.c6c5f8efb9179610abf60918e0c92277d:hover{
+box-shadow: 0 49.7px 49.5px -25px rgb(0 0 0 / 30%);
+transform: rotate(-2deg) scale(1.03);
 }
-.yc5418ac614b56b866f1657a64dc4a31b a{
+.navbar a{
+font-size: 17.5px!important;
+font-weight: bold;
+}
+.tade81e42b1b9d151eb1ae6d7ca4b1994 a{
 font-size:16px;
 }
-.nav-link{
-color: #000000;
-
+*{
+font-family: 'Kumbh Sans', sans-serif;
+}
+.t145c21d3c24487783a6b650b7ab79912 a,.tade81e42b1b9d151eb1ae6d7ca4b1994 a{
+color:#020202!important;
+text-decoration: underline !important;
+}
+footer *{
+font-size:16px !important;
+}
+html{
+scroll-behavior: smooth;
+}
+.nav-item{
+padding-left:7.9px;
+padding-right:7.5px;
+padding-top:4.7px;
+padding-bottom:4.9px;
+}
+.t145c21d3c24487783a6b650b7ab79912 p,.t145c21d3c24487783a6b650b7ab79912 a,.t145c21d3c24487783a6b650b7ab79912 span,.t145c21d3c24487783a6b650b7ab79912 label{
+font-size:16px!important;
+}
+a:hover{
+color:#ffffff;background:#ffc658!important;
 }
     .dropdown-submenu {
     position: relative;
@@ -203,12 +203,12 @@ color: #000000;
 </head>
 <body>
 <nav class="navbar navbar-expand-lg">
-<a class="navbar-brand" href="index.html"  ></a>
+<a class="navbar-brand" href="https://github.com/yacssteam/party-rentals/index.html"  ></a>
 <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
-<span class="navbar-toggler-icon  fa fa-bars"></span></button><div class="collapse navbar-collapse" id="navbarSupportedContent">
-<ul class="ml-auto align-items-center d-flex navbar-nav"><li class="nav-item ">
-<a class="v06d9a095262fa7a14c8a69967f17d1f7 nav-link" href="index.html"  >asdasd</a>
-</li><li class="nav-item"><a class="nav-link v06d9a095262fa7a14c8a69967f17d1f7" rel=nofollow href="about-us.html">About Us</a>
+<span class="navbar-toggler-icon  fa fa-bars"></span></button><div class="navbar-collapse collapse" id="navbarSupportedContent">
+<ul class="d-flex ml-auto navbar-nav align-items-center"><li class=" nav-item">
+<a class="nav-link zbb5e20c10b727af74e99152ebaf9db8d" href="https://github.com/yacssteam/party-rentals/index.html"  >asdasd</a>
+</li><li class="nav-item"><a class="nav-link zbb5e20c10b727af74e99152ebaf9db8d" rel=nofollow href="https://github.com/yacssteam/party-rentals/about-us.html">About Us</a>
 </li></ul>
 </div>
 </nav>
@@ -275,10 +275,10 @@ This website is owned and published by:
 </p>
 </section>
 <footer>
-<div class="container py-4 pt-5" >
-<div class="row"><div class="col-lg-3"><p><a class="v06d9a095262fa7a14c8a69967f17d1f7" href="sitemap.html" rel="nofollow">Sitemap</a></p>
-<p><a class="v06d9a095262fa7a14c8a69967f17d1f7" href="privacy-policy.html" rel="nofollow">Privacy Policy</a></p>
-<p><a class="v06d9a095262fa7a14c8a69967f17d1f7" href="about-us.html" rel="nofollow">About Us</a></p>
+<div class="py-4 container pt-5" >
+<div class="row"><div class="col-lg-3"><p><a class="zbb5e20c10b727af74e99152ebaf9db8d" href="https://github.com/yacssteam/party-rentals/sitemap.html" rel="nofollow">Sitemap</a></p>
+<p><a class="zbb5e20c10b727af74e99152ebaf9db8d" href="https://github.com/yacssteam/party-rentals/privacy-policy.html" rel="nofollow">Privacy Policy</a></p>
+<p><a class="zbb5e20c10b727af74e99152ebaf9db8d" href="https://github.com/yacssteam/party-rentals/about-us.html" rel="nofollow">About Us</a></p>
 </p>
 </div></div>
 </div>
