@@ -1,1 +1,1 @@
-Sitemap: sitemap.xml
+Sitemap: https://github.com/yacssteam/party-rentals/sitemap.xml
